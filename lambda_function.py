@@ -8,7 +8,7 @@ import re
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
-API_KEY = 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  # Replace with your Google API Key
+API_KEY = 968243454195-3cu68oejkp9m9f76bgeid7tc0hfni2ar.apps.googleusercontent.com  # Replace with your Google API Key
 ROOT_FOLDER_ID = 1wSitEFKuOSc3YNb-CVeVsVq9H8ypoJMV
 
 # Global variable to store the last viewed recipe content
